@@ -1,2 +1,0 @@
-# NGIC
-branch stuff
